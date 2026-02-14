@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Adriel Vinicius
 
-<!--
-**Adriel-Vinicius/Adriel-Vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+🎓 Formando em Análise de Sistemas  
+🚀 Focado em me tornar Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Atualmente estudando
+
+- JavaScript
+- Python
+- Linux
+- Desenvolvimento Full Stack
+
+---
+
+## 🧠 Projetos em destaque
+
+
+- 🏪 Bot de trading automatizado para criptomoedas
+- 🌐 Geek Hook – Website Institucional
+- 📢 Sistema Web de Criação de Cartazes Promocionais
+- 🖥️ Servidor Debian para Laboratório de Redes
+
+---
+
+## 🎯 Objetivos
+
+⭐ Me tornar desenvolvedor Full Stack  
+📚 Aprender algo novo todos os dias  
+💼 Ingressar profissionalmente na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
