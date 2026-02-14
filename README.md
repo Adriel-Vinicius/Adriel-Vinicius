@@ -1,17 +1,8 @@
 # 👋 Olá, eu sou o Adriel Vinicius
 
-💻 Desenvolvedor em formação  
-🎓 Formando em Análise de Sistemas  
-🚀 Focado em me tornar Full Stack Developer  
-
----
-
-## 🔥 Atualmente estudando
-
-- JavaScript
-- Python
-- Linux
-- Desenvolvimento Full Stack
+- Desenvolvedor em formação  
+- Formando em Análise e Desenvolvimento de Sistemas 
+- Focado em me tornar Full Stack Developer  
 
 ---
 
@@ -25,11 +16,9 @@
 
 ---
 
-## 🎯 Objetivos
+## 📚 Documentação Técnica
 
-⭐ Me tornar desenvolvedor Full Stack  
-📚 Aprender algo novo todos os dias  
-💼 Ingressar profissionalmente na área de tecnologia
+📘 [📘 Guia Prático de Infraestrutura Linux com Debian e OpenWRT (PDF)](link-do-pdf)
 
 ---
 
@@ -44,3 +33,21 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## 📌 Atualmente estudando
+
+- JavaScript
+- Python
+- Linux
+- Desenvolvimento Full Stack
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar desenvolvedor Full Stack  
+- Aprender algo novo todos os dias
+- Ingressar profissionalmente na área de tecnologia
+
+---
