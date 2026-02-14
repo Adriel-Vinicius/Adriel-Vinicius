@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Adriel Vinicius
+# 👋 Olá, eu sou Adriel Vinicius
 
 - Desenvolvedor em formação  
 - Formando em Análise e Desenvolvimento de Sistemas 
