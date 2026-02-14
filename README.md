@@ -9,16 +9,16 @@
 ## 🧠 Projetos em destaque
 
 
-- 🏪 Bot de trading automatizado para criptomoedas
-- 🌐 Geek Hook – Website Institucional
-- 📢 Sistema Web de Criação de Cartazes Promocionais
-- 🖥️ Servidor Debian para Laboratório de Redes
+- Bot de trading automatizado para criptomoedas
+- Geek Hook – Website Institucional
+- Sistema Web de Criação de Cartazes Promocionais
+- Servidor Debian para Laboratório de Redes
 
 ---
 
 ## 📚 Documentação Técnica
 
-📘 [📘 Guia Prático de Infraestrutura Linux com Debian e OpenWRT (PDF)](link-do-pdf)
+[Guia Prático de Infraestrutura Linux com Debian e OpenWRT (PDF)](link-do-pdf)
 
 ---
 
