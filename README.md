@@ -18,7 +18,7 @@
 
 ## 📚 Documentação Técnica
 
-[Guia Prático de Infraestrutura Linux com Debian e OpenWRT (PDF)]([link-do-pdf](https://github.com/Adriel-Vinicius/debian-server-lab/blob/main/docs/Guia%20Prático%20de%20Infraestrutura%20Linux%20com%20Debian%20e%20OpenWRT.pdf))
+[Guia Prático de Infraestrutura Linux com Debian e OpenWRT (PDF)](https://github.com/Adriel-Vinicius/debian-server-lab/blob/main/docs/Guia%20Prático%20de%20Infraestrutura%20Linux%20com%20Debian%20e%20OpenWRT.pdf)
 
 ---
 
